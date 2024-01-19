@@ -1,0 +1,12 @@
+body{
+    display:flex;
+    flex-direction: column;
+}
+
+.header{
+    background-color: #1F2937;
+}
+.card > img{
+    width: 200px;
+    height: auto;
+}
